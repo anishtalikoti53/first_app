@@ -1,2 +1,2 @@
-# first_app
+# First_app
 My first app on Gradio
